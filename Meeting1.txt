@@ -1,0 +1,64 @@
+                Jacobs Store
+Meeting: 23rd April, 2017 | 7:15pm
+
+Agenda:
+1. Goals and Expectations for Project:
+        Aditya:
+        - To learn as we work on the project.
+
+        Bryann:
+        - To have the experience of building a product from scratch and shipping it to users.
+
+        Alkim:
+        - To have fun.
+        - To learn improve ourselves and grow.
+
+        Jin:
+        - To learn.
+        - Practical experience and shipping something to the community.
+
+2. Project Overview:
+    a. Problem Scope:
+
+    Currently, people use emails to buy and sell stuff on campus amongst the student body.
+    Advantages of this have been:
+        - Because everyone can see it.
+        - The emails come from and go to just Jacobs people not some unknown person.
+        - It is cheaper and not shitty quality.
+
+    The problems students buying are facing are:
+        - Too many spam emails.
+        - Inability to filter the emails.
+        - Some people never have cash on them to go pay people.
+        - Not sure if the product is sold or not.
+        - You have to hunt for the person's contact information.
+        - Products are sold too quickly. You really have to be on top of your inbox to catch what you need.
+        - You have to click on Google Docs. Another platform:(
+        - Going through a lot of stuff not knowing whether you are going to find what you need.
+
+
+    The problems students selling are facing are:
+        - You get too many emails from people.
+        - You have to continuously update Google Docs when something is sold.
+        - You receive emails from people who are asking for things already sold.
+
+    PROBLEM STATEMENT:  We want to make it easier for people to buy and sell stuff on campus.
+
+    SOLUTION: An Android app that...(To be determined)...
+
+    b. Plan of Attack/Methodology
+        - Waterfall vs. Volatile
+        - Google Design Sprints
+
+        Summarized Approach
+        1. Talk to users.
+        2. Prototyping
+        3. Getting feedback on prototyping
+        4. Implementation.
+        5. Feedback
+
+Before next meeting:
+1. Email users.
+
+
+Next Meeting time: Monday, 24th April. 1030PM - Krupp Common Room
