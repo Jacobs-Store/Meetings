@@ -1,0 +1,24 @@
+            Jacobs Store
+Meeting: 24th April, 2017 | 10:30pm
+
+Agenda:
+1. User Feedback
+    Number of users reached out to = 10
+    Number of users responded = 3
+    a. User Pain Points from the feedback:
+    - Having to constantly check emails.
+    - People not getting back to them.
+    - Making it clear that an item has been reserved/sold.
+    - Getting too many emails back even after item sold.
+    - Too many people pulling out of a sale halfway.
+    - Contacting people to meet up is also a hassle.
+
+    Thoughts from User Feedback
+    We are trying to solve:
+    - There seems to be a lot unnecessary communication
+    - People are willing to use multiple social media platforms because there are other people using them.
+      (Snowball effect)
+    - People will use something if it is convenient.
+
+2. Prototyping
+    The team worked on first prototypes of the platform.
